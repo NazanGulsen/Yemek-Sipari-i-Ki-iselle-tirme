@@ -118,7 +118,7 @@ Bu proje, yemek siparişi açıklamaları üzerinde **Word2Vec** modellerini eğ
   - Her parametre kombinasyonu için ayrı modeller eğitilir
   - Modeller `.model` uzantısıyla kaydedilir
 - **Analiz**:
-  - "angara" kelimesine en benzer 3 kelime ve skorları çıkarılır
+  - "peri" kelimesine en benzer 3 kelime ve skorları çıkarılır
   - Veri setindeki en sık kullanılan 20 kelime listelenir (ör. "pizza", "burger", "salad")
 
 ---
